@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class sumOfFiveValidInteger {
 
     public static void main(String[] args) {
-      //  int n=1;
         int sum=0;
         Scanner sc = new Scanner(System.in);
         try{
