@@ -10,7 +10,7 @@ public class secondLargestElementInAnArray {
             if(arr[i]<arr[i+1]){
                 largest=arr[i+1];
                 secondLargest=arr[i];
-                test
+                
             }
         }
     }
