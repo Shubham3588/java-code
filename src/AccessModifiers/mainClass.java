@@ -6,5 +6,6 @@ public class mainClass {
         carType car = new carType();
         car.carDetails();
 
+
     }
 }
