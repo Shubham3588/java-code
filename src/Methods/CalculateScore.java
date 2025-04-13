@@ -18,7 +18,11 @@ public class CalculateScore {
     }
 
     public static void main(String[] args) {
+
         calculatedScore(true, 800, 5, 100);
-        calculatedScore(false, 700, 6, 500);
+
+        int levelCompleted = 7;
+        int bonus = 600;
+        calculatedScore(false, 700, levelCompleted, bonus);
     }
 }
